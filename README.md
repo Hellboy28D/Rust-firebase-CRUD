@@ -19,11 +19,17 @@ The project is designed as a simple learning and practical implementation for de
 Features
 
 ✅ Create users in Firebase
+
 ✅ Fetch a single user
+
 ✅ Fetch all users
+
 ✅ Update user data
+
 ✅ Delete users
+
 ✅ Async API requests using Tokio
+
 ✅ JSON serialization/deserialization using Serde
 
 Tech Stack
