@@ -18,9 +18,9 @@ struct Response{
 #[tokio::main]
 async fn main(){
     let user = User {
-        name: "Akhil Sharma".to_string(),
-        age:30,
-        email:"akhil.sharma@gmail.com".to_string(),
+        name: "Divakar Daya".to_string(),
+        age: 20,
+        email:"yadavdayaram.nuh@gmail.com".to_string(),
     };
 
     let firebase = Firebase::new("https://fb-rust-default-rtdb.firebaseio.com/").unwrap();
